@@ -1,0 +1,20 @@
+[
+    {
+        name: "wolf",
+        species: "tiger",
+        location: "Grasslands",
+        wantedFor: "Eating too much meat",
+        client: "leopard",
+        reward: 20000,
+        captured: false
+      },
+      {
+        name: "Elephat",
+        species: "Rhino",
+        location: "Deer",
+        wantedFor: "Eating too much grass",
+        client: "Songbird",
+        reward: 30000,
+        captured: false
+      }
+]
